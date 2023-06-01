@@ -1,5 +1,5 @@
 {
     "applicationId": "BLOCKLY-WEB",
     "version": "1.0.0",
-    "resourcesURL": "https://github.com/fontainejp/neutralino/update_res.neu"
+    "resourcesURL": "https://raw.githubusercontent.com/fontainejp/neutralino/main/update_res.neu"
 }
